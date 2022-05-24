@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "//h2-jung.github.io/hankjung.github.io/static/css/main.71ce6597.chunk.css",
-    "main.js": "//h2-jung.github.io/hankjung.github.io/static/js/main.86922a35.chunk.js",
-    "main.js.map": "//h2-jung.github.io/hankjung.github.io/static/js/main.86922a35.chunk.js.map",
+    "main.js": "//h2-jung.github.io/hankjung.github.io/static/js/main.6f13450b.chunk.js",
+    "main.js.map": "//h2-jung.github.io/hankjung.github.io/static/js/main.6f13450b.chunk.js.map",
     "runtime-main.js": "//h2-jung.github.io/hankjung.github.io/static/js/runtime-main.4fd916d8.js",
     "runtime-main.js.map": "//h2-jung.github.io/hankjung.github.io/static/js/runtime-main.4fd916d8.js.map",
     "static/js/2.56cd28c3.chunk.js": "//h2-jung.github.io/hankjung.github.io/static/js/2.56cd28c3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4fd916d8.js",
     "static/js/2.56cd28c3.chunk.js",
     "static/css/main.71ce6597.chunk.css",
-    "static/js/main.86922a35.chunk.js"
+    "static/js/main.6f13450b.chunk.js"
   ]
 }
